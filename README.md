@@ -15,7 +15,6 @@ Hands-on experience in building complete testbenches, coverage-driven verificati
 
 ### Featured Projects
 - **RISC-V Processor** – Single-cycle RV32I with full SystemVerilog testbench
-- **DualRISC Processor** – Dual-core RISC-V implementation
 - **UART Controller** – FSM-based transmitter + receiver with verification
 - **Pathfinding Accelerator** – HLS implementation verified on FPGA
 
