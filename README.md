@@ -11,7 +11,7 @@ Hands-on experience in building complete testbenches, coverage-driven verificati
 - SystemVerilog • Verilog • UVM (Basics)  
 - Testbench Development • Functional Coverage • Assertions  
 - Debugging & Regression Testing  
-- Cadence Tools • Xilinx Vivado • ModelSim
+- Cadence Tools • Xilinx Vivado 
 
 ### Featured Projects
 - **RISC-V Processor** – Single-cycle RV32I with full SystemVerilog testbench
